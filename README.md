@@ -1,2 +1,2 @@
 # docsweb
-Documentos para publicar en la https://docs.dalatcomunidad.org
+Documentos para publicar en la web informativa https://docs.dalatcomunidad.org
